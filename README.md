@@ -3,15 +3,15 @@
 ## 🔍Project Overview
 This is an exploratory analysis of a coffee shop's yearly sales data to uncover revenue drivers, customer purchasing behavior, and as well as the product performance. The project depicts the complete data analysis workflow, including well-detailed exploratory data analysis (EDA) in Python using markdowns, and an interactive Power BI dashboard.
 
-## 🏹Project Goal
+## ⏳Project Goal
 To clean and prepare the sales dataset for analysis and identify peak sales hours, the product performance, seasonal trends, and the payment behavior in order to make insightful recommendations to support sales performance.
 
 ## 🛠Tools Used
-- Python(Pandas, Numpy, Matplotlib, Seaborn), Jupyter Notebook
+- Python (Pandas, Numpy, Matplotlib, Seaborn), Jupyter Notebook
 - Power BI 
 
-## 📌Project Files
-- [Coffee Sales Dashboard] (..)
+## 📎Dashboard Preview
+- [Coffee Sales Performance Dashboard](..)
 
 ## 🔎Key Findings
 - The coffee shop pulled in over hundred thousand dollars from 3.6k orders over the year.
@@ -20,7 +20,7 @@ To clean and prepare the sales dataset for analysis and identify peak sales hour
 - 97.6% of card payments shows that most customers are almost entirely cashless.
 - There were only two spikes in revenue year round, around October 2024 and February 2025, indicating a seasonal or promo-driven boosts rather than steady growth.
 
-## ⏳Recommendations
+## 🏹Recommendations
 - There is need to staff up around the peak hours:10am and 3-4pm.
 - Prioritize milk-based drinks in promo/loyaty offers to drive revenue.
 - For low-performing products, carry out a value push by lowering price or bundle by pairing with a top product to test if their issue is pricing or awareness.
