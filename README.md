@@ -11,7 +11,7 @@ To clean and prepare the sales dataset for analysis and identify peak sales hour
 - Power BI 
 
 ## 📎Dashboard Preview
-- [Coffee Sales Performance Dashboard](..)
+- [Coffee Sales Performance Dashboard](https://github.com/Chiemegolum/coffee_sales/blob/main/Screenshot%202026-07-15%20003344.png)
 
 ## 🔎Key Findings
 - The coffee shop pulled in over hundred thousand dollars from 3.6k orders over the year.
@@ -25,4 +25,4 @@ To clean and prepare the sales dataset for analysis and identify peak sales hour
 - Prioritize milk-based drinks in promo/loyaty offers to drive revenue.
 - For low-performing products, carry out a value push by lowering price or bundle by pairing with a top product to test if their issue is pricing or awareness.
 - Consider phasing out cash handling system since it's almost inexistent (under 3%).
-- Investigate what exactly drove the October-February spikes in order to improve the business growth.
+- Investigate what exactly drove the October-February spikes and try replicate it.
